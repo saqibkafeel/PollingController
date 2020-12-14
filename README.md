@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/saqibkafeel/PollingController/develop/readme-images/logo.png" alt="PollingController" title="PollingController" width="128"  height="128"/><br/>
+    <img src="https://github.com/saqibkafeel/PollingController/blob/master/readme-images/logo.png?raw=true" alt="PollingController" title="PollingController" width="128"  height="128"/><br/>
     <b>PollingController</b><br/>
     <br/>
     <img src="https://img.shields.io/badge/Swift-5-orange" alt="Swift Version" title="Swift Version"/>
@@ -38,7 +38,7 @@ let pollingController = PollingController(preferredInterval: 5) { callback in
 
 This demo shows how the `PollingController` switches states.
 
-<img src="https://raw.githubusercontent.com/saqibkafeel/PollingController/develop/readme-images/demo.gif" alt="PollingController Demo" title="PollingController Demo" width="320"/>
+<img src="https://github.com/saqibkafeel/PollingController/blob/master/readme-images/demo.gif?raw=true" alt="PollingController Demo" title="PollingController Demo" width="320"/>
 
 You can find this demo app in this repository.
 
